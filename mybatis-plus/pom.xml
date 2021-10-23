@@ -12,7 +12,7 @@
     <artifactId>mybatis-plus</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mybatis-plus</name>
-    <description>Demo project for Spring Boot</description>
+    <description>SpringBoot整合MybatisPlus</description>
     <properties>
         <java.version>11</java.version>
     </properties>
