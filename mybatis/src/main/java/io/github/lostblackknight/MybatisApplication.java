@@ -1,6 +1,6 @@
-package io.github.lostblackknight.mybatis;
+package io.github.lostblackknight;
 
-import io.github.lostblackknight.mybatis.mapper.UserMapper;
+import io.github.lostblackknight.mapper.UserMapper;
 import lombok.AllArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

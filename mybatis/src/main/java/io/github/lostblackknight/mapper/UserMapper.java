@@ -1,6 +1,6 @@
-package io.github.lostblackknight.mybatis.mapper;
+package io.github.lostblackknight.mapper;
 
-import io.github.lostblackknight.mybatis.domain.User;
+import io.github.lostblackknight.domain.User;
 
 import java.util.List;
 

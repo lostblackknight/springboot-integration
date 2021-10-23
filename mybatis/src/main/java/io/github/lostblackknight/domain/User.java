@@ -1,4 +1,4 @@
-package io.github.lostblackknight.mybatis.domain;
+package io.github.lostblackknight.domain;
 
 import lombok.Data;
 

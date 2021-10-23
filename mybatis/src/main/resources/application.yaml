@@ -1,7 +1,7 @@
 mybatis:
-  type-aliases-package: io.github.lostblackknight.mybatis.domain
+  type-aliases-package: io.github.lostblackknight.domain
   mapper-locations: classpath:mapper/**/*.xml
 logging:
   level:
     root: warn
-    io.github.lostblackknight.mybatis.mapper: trace
+    io.github.lostblackknight.mapper: trace
