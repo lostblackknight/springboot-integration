@@ -1,0 +1,12 @@
+mybatis-plus:
+  type-aliases-package: io.github.lostblackknight.domain
+  mapper-locations: classpath*:/mapper/**/*.xml
+  configuration:
+    cache-enabled: false # \u5173\u95ED\u4E8C\u7EA7\u7F13\u5B58
+    local-cache-scope: statement # \u5173\u95ED\u4E00\u7EA7\u7F13\u5B58
+  global-config:
+    banner: false # \u5173\u95ED\u63A7\u5236\u53F0logo
+logging:
+  level:
+    root: warn
+    io.github.lostblackknight.mapper: trace
